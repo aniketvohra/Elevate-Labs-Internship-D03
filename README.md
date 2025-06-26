@@ -18,10 +18,10 @@ for linux, command to install
 <i>sudo dpkg -i Nessus-10.8.4-ubuntu1604_i386.deb</i>
 
 Start Nessus
-<i>sudo systemctl start nessusd</i>
+<i>sudo systemctl start nessusd</i>  
 <img src="images/1.png">
 
-Login to Nessus and wait for the plugins to get downloaded and compiled
+Login to Nessus and wait for the plugins to get downloaded and compiled  
 <img src="images/2.png">
 
 Start a new scan
